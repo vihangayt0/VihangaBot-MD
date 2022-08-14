@@ -21,21 +21,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
-global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.owner = ['94750309616']
+global.premium = ['94750309616']
+global.ownernomer = '94750309616'
+global.ownername = '𝒍𝒂𝒌𝒊𝒚𝒂🔆❤️'
+global.botname = '𝗟𝗮𝗸𝗶𝘆𝗮 𝗕𝗼𝘁'
+global.footer = '𝘓𝘈𝘒𝘐𝘠𝘈 𝘉𝘙𝘖'
+global.cap = '𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐀𝐊𝐈𝐘𝐀'
+global.ig = 'https://youtube.com/channel/UCOdv2fhpb0ECkrcXbTtI_jw'
+global.region = 'Sri Lanka,Galle'
+global.sc = '𝗬𝗼𝘂𝗧𝘂𝗯𝗲'
+global.myweb = 'https://chat.whatsapp.com/IErnSNPEYCI9w3ddmcf0gS'
+global.packname = '𝘓𝘈𝘒𝘐𝘠𝘈 𝘉𝘙𝘖 𝘚𝘛𝘐𝘊𝘒𝘌𝘙 𝘉𝘖𝘛'
+global.author = '𝙇𝙖𝙠𝙞𝙮𝙖 𝙗𝙧𝙤✍️🤍'
 global.autobio = 'true'
-global.sessionName = 'session'
+global.sessionName = 'LAKIYA'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
